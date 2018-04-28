@@ -1,0 +1,27 @@
+WAREVENT
+American Revolution : 1765-1783
+The American Revolution was a colonial revolt that took place between 1765 and 1783. The American Patriots in the Thirteen Colonies won independence from Great Britain, becoming the United States of America. They defeated the British in the American Revolutionary War in alliance with France and others.
+Thirteen Colonies, United States
+Great Britain
+NATIONALEVENT
+French Revolution : 1789-1799
+The French Revolution was a period of far-reaching social and political upheaval in France and its colonies that lasted from 1789 until 1799. It was partially carried forward by Napoleon during the later expansion of the French Empire. The Revolution overthrew the monarchy, established a republic, catalyzed violent periods of political turmoil, and finally culminated in a dictatorship under Napoleon who brought many of its principles to areas he conquered in Western Europe and beyond.
+France
+WAREVENT
+World War 1 : 1914-1918
+World War I began in 1914, after the assassination of Archduke Franz Ferdinand, and lasted until 1918. During the conflict, Germany, Austria-Hungary, Bulgaria and the Ottoman Empire (the Central Powers) fought against Great Britain, France, Russia, Italy, Romania, Japan and the United States (the Allied Powers). Thanks to new military technologies and the horrors of trench warfare, World War I saw unprecedented levels of carnage and destruction. By the time the war was over and the Allied Powers claimed victory, more than 16 million people?soldiers and civilians alike?were dead.
+German Empire, Austria-Hungary, Ottoman Empire
+France, British Empire, Russia
+NATIONALEVENT
+Bolshevik Revolution : 1917
+The Bolshevik Revolution was a pair of revolutions in Russia in 1917 which dismantled the Tsarist autocracy and led to the rise of the Soviet Union. The Russian Empire collapsed with the abdication of Emperor Nicholas II and the old regime was replaced by a provisional government during the first revolution of February 1917. Alongside it arose grassroots community assemblies (called 'soviets') which contended for authority. In the second revolution that October, the Provisional Government was toppled and all power was given to the soviets.
+Russia
+NATIONALEVENT
+Three Kingdoms : 0184-0280
+The Three Kingdoms was the tripartite division of China between the states of Wei, Shu, and Wu, following the Han dynasty and preceding the Jin dynasty. The term "Three Kingdoms" itself is something of a mistranslation, since each state was eventually headed not by a king, but by an emperor who claimed legitimate succession from the Han dynasty. Nevertheless, the term "Three Kingdoms" has become standard among sinologists. To further distinguish the three states from other historical Chinese states of similar names, historians have added a relevant character: Wei is also known as Cao Wei, Shu is also known as Shu Han, and Wu is also known as Dong Wu.
+China
+WAREVENT
+World War 2 : 1939-1945
+World War II was a global war that lasted from 1939 to 1945, although related conflicts began earlier. The vast majority of the world's countries eventually formed two opposing military alliances: the Allies and the Axis. It was the most global war in history; it directly involved more than 100 million people from over 30 countries.
+Nazi Germany, Empire of Japan, Kingdom of Italy
+Soviet Union, United States, United Kingdom, China, France, Poland, Netherlands, Belgium
